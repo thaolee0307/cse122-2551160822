@@ -1,0 +1,43 @@
+body{
+    font-family: Verdana, Calibri;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+.khung-tho{
+    background-color: #FFFDE7;
+    border: 1px solid #9e9e9e;
+    width: 640px;
+    padding: 24px;
+}
+
+h1{
+    color: #D40000;
+    background-color: #FFD9E6;
+    font-size: 26px;
+    padding: 6px 0;
+    margin: 0 0 20px;
+
+}
+
+.khoxanh{
+    color:  #0033CC ;
+    line-height: 1.7;
+    font-style: italic;
+}
+
+.khodo{
+    color:   #D40000 ;
+    line-height: 1.7;
+    font-style: italic;
+}
+
+hr{
+    width: 55%;
+    background-color: blue;
+    border:none;
+    height: 1px;
+    
+}
